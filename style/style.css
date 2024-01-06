@@ -21,6 +21,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-self: center;
+    margin: 0px 200px;
 }
 .nav-bar
 {
@@ -40,4 +41,8 @@ nav > ul{
  }
  nav a{
     text-decoration: none;
+ }
+ .header
+ {
+    background-color: #FFF8F3;
  }
