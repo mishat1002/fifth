@@ -112,3 +112,12 @@ nav > ul{
  {
     text-align: center;
  }
+ #what-i-do-description
+ {
+    padding: 30px 130px;
+ }
+ .skill-container
+ {
+    display: flex;
+    justify-content: space-between;
+ }
